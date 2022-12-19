@@ -1,4 +1,4 @@
 user:
-  name:"DemoUser1"
-  address:"Address1"
-  email:"demouser1@gmail.com
+  name:DemoUser1
+  address:Address1
+  email:test1@email.com
